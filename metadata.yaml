@@ -1,0 +1,33 @@
+_repo: Elkan-Lubliner-American_27423
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27423-h/images/elkancover.jpg
+creator:
+  author:
+    agent_name: Glass, Montague
+    aliases:
+    - Marsden, Montague Glass
+    - Glass, Montague Marsden
+    birthdate: 1877
+    deathdate: 1934
+    gutenberg_agent_id: '7845'
+    url: http://www.gutenberg.org/2009/agents/7845
+    wikipedia: http://en.wikipedia.org/wiki/Montague_Glass
+description: ''
+gutenberg_issued: '2008-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27423'
+  lccn: '12024207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Immigrants -- New York (State) -- New York -- Fiction'
+- !lcsh 'Clothing workers -- New York (State) -- New York -- Fiction'
+- !lcsh 'Jews -- New York (State) -- New York -- Fiction'
+title: Elkan Lubliner, American
+url: http://www.gutenberg.org/ebooks/27423
